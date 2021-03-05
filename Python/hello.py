@@ -24,6 +24,11 @@ else:
 print('Your new message is: ', newMessage)
 
 
+# example from ch2 part2 - py4e
+
+inp = input('european floor?')
+usf = int(inp) + 1
+print('US floor', usf)
 
 
 
